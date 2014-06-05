@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Field Styles -->
+    <style name="editText" parent="android:style/Widget.EditText">
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:singleLine">true</item>
+    </style>
+
+    <!-- View Styles -->
+    <style name="panel" >
+        <item name="android:background">@android:color/white</item>
+        <item name="android:padding">25dp</item>
+    </style>
+
+    <!-- TextView Styles -->
+    <style name="textView" parent="android:style/Widget.TextView">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="textViewTitle" parent="textView">
+        <item name="android:textSize">@dimen/medium_text</item>
+    </style>
+
+    <!-- Button Styles -->
+    <style name="registerButton" parent="android:style/Widget.Button">
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:textColor">@android:color/holo_blue_light</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+</resources>

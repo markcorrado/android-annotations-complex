@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mark Test Project</string>
+
+    <!-- Login -->
+    <string name="log_in">Log In</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="registerText"><u>Don\'t have an account? Sign up here.</u></string>
+    <string name="registerTitle">Register</string>
+    <string name="signUp">Sign Up</string>
+    <string name="confirmPassword"><u>Confirm Password</u></string>
+
+    <!-- Toasts -->
+    <string name="passwordMismatch">Passwords do not match</string>
+    <string name="usernameExists">Username already exists</string>
+
+</resources>
